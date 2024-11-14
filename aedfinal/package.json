@@ -1,0 +1,13 @@
+{
+  "name": "aedfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prop": "tsc && node dist/main.js"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
